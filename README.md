@@ -1,5 +1,7 @@
 # Proceso en Linux
 
+##### *Usar wsl en caso de windows*
+
 ### Clonar repositorio
 git clone https://github.com/OlirahetaX/dwimsh.git
 
@@ -12,4 +14,4 @@ g++ dwimsh.cpp -o dwimsh
 ### Correr el proyecto
 ./dwimsh
 
-*** Y ya estaras dentro del Shell ***
+***Y ya estaras dentro del Shell***
